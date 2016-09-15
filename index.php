@@ -14,7 +14,7 @@
   <em>Nom de code: <b>C2B</b></em>
   <hr>
   <h1>Universal Global Method<br>To Happiness*</h1>
-  <h2>Jouons, Tache de Lumière !</h2>
+  <h2>Taches de Lumière, jouons !</h2>
 </header>
 <section>
   <p>* En français: <b>Méthode Universelle & Globale de Bonheur pour TOUS</b></p>
