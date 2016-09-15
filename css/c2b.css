@@ -6,6 +6,7 @@ html {
 body {
   width: 97%;
   margin: 0 auto;
+  text-align: justify;
 }
 header {
   text-align: center;

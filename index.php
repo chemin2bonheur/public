@@ -32,7 +32,7 @@
     réalisation structurelle du groupe construit "à l'époque", cet acquis étant la base de C2B pour une partie... )</p>
 
 
-  <p>Bi1tô, sur vos écrans...</p>
+  <p>Le Bonheur, ça s'apprend ! Bi1tô, sur vos écrans...</p>
 
   <p>D'après-vous, est-ce un jeu...?
     - Et alors...? Demandez-vous MAINTENANT "Pourquoi ?", et faites cela, encore et encore, à chacune de vos réponses à
