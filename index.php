@@ -46,10 +46,10 @@
   <p>Soyez Partout, commencez prochaînement par entrer dans le chemin2bonheur.com !</p>
   <p>LC</p>
 
-  <p><a href="https://github.com/chemin2bonheur/prelancement" target="_blank">Dépôt GitHub</a></p>
 
 </section>
 **: ToDoX...X = À faire (Si X...X précisé, par l'initiateur X...X)
+<p class="right"><a href="https://github.com/chemin2bonheur/prelancement" target="_blank">Dépôt GitHub</a></p>
 <hr>
 <footer>
   &copy;GC7 - St. Amand Les Eaux - 09/2016

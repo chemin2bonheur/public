@@ -35,6 +35,9 @@ footer {
 .centered {
   text-align: center;
 }
+p.right {
+  text-align: right;
+}
 .rounded {
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
