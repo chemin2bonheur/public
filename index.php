@@ -17,8 +17,8 @@
   <h2>Jouons, Tache de Lumière !</h2>
 </header>
 <section>
-  * En français: <b>Méthode Universelle & Globale de Bonheur pour TOUS</b></p>
-  <p>Apportez ainsi toujours plus de Bonheur autour de VOUS, et recevez-en alors 1 milliard de fois plus !</b>  </p>
+  <p>* En français: <b>Méthode Universelle & Globale de Bonheur pour TOUS</b></p>
+  <p>Apportez ainsi toujours plus de Bonheur autour de VOUS, et recevez-en alors 1 milliard de fois plus !</p>
   <hr>
 </section>
 <section>
@@ -44,6 +44,7 @@
   <p>
 
   <p>Soyez Partout, commencez prochaînement par entrer dans le chemin2bonheur.com !</p>
+  <p>LC</p>
 
   <p><a href="https://github.com/chemin2bonheur/prelancement" target="_blank">Dépôt GitHub</a></p>
 
