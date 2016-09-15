@@ -35,9 +35,8 @@
   <p>Bi1tô, sur vos écrans...</p>
 
   <p>D'après-vous, est-ce un jeu...?
-    - Et alors...? Demandez-vous MAINTENANT "Pourquoi ?", et faites cela, encore et encore, à chaque réponse de vos
-    toutes
-    vos questions ! Il est recommandé de s'arrêter de jouer à cela plus de 7 itérations par cession, renouvelable
+    - Et alors...? Demandez-vous MAINTENANT "Pourquoi ?", et faites cela, encore et encore, à chacune de vos réponses à
+    toutes vos questions ! Il est recommandé de s'arrêter de jouer à cela plus de 7 itérations par cession, renouvelable
     cependant à volonté.
 
     Et c'est gratuit aussi, allais-je oublier, facile pour TOUS, et de plus en plus rapidement
