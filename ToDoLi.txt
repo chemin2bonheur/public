@@ -1,0 +1,124 @@
+B.P. (Doc réservé à LC - Git autorisé)
+
+  - G.A. / C2B + P100 + UB
+  - Menu (Responsive et fixed, body relative) avec Bootstrap - Idem p100.asseco.fr
+    [1-2 j - D.L.: Sept. '16]
+
+  - Resto + maj SG2: concrete5.fr (CMS + Forum + KanBoard) & asseco.fr (KanBoard + Forum)...
+  - Page Accueil  - Simplifiée (Suppr. ToDoLi visibles)
+  - Page 'Pour commencer' (Texte ci-dessous : Pk C2B ? -> 3 sous pages)
+  - Page 'Outils' - Du 0 comp. à PRO
+    (Usage minimaliste Git (Sans Fork) + id. c5.fr (Initiés) + Initiation/Guides Web/Prog/Dev/Appli ("Pros"))
+
+  - SG4 pour C2B, SG5 pour P100 & UB
+    [5-7 j - D.L.: Oct '16]
+
+  - Restructurer SG1: Modules (CM, B, CA, M, LCDA, C7, etc...) ds SG1
+    [15 j - D.L.: Nov '16]
+
+  - Dev Zône Membres (C2B) - Id P100 (Avec filiation + Tutorat)
+    [4-5 sem.] - D.L.: Déc '16']
+
+  - P100: OCMS - Réf C2B pour utils + B.E.: Idem CA + Q.Q.O.R.Q. ( Outil à usage périodique du calcul du niveau Bonheur Individuel basé / mesures subjectives [Données personnelle confidentielles - Archives hebdo perso accessibles dans Dashboard du Maître (LV5) qui a page de suivi de son Gr et accès aux "Clés"]) + Plan Marketing (Id CA)
+    [6 mois si pas de C2B PRO - 1er Trim 2017]
+
+
+
+Pk C2B, pk un site de + sur le domaine...?
+
+
+Au besoin de le 'dire'... Vous avez du penser: Site 'Zarbi'...?
+
+En effet... Pas de blog, pas de forum, pas de chat, et on y communique pourtant 'à donf' ?!? Et qu'au final, il n'y a ici que quelques rubriques, quelques 'simples' pages...
+
+"Comment est-ce possible ? Et qui sont donc tous ces auteurs de tout ces contenus...? Comment les joindre ? Car en fait, éventuellement, j'aurais à ajouter/modifier/compléter/réagir, bref, moi aussi, à 'dire' des choses à certains endroits..."
+
+Vous vous posez sans-doute ce genre de questions... Et c'est complètement légitime !
+
+Cette rubrique à pour but de vous y répondre...
+
+Apprêtez-vous à entrer dans un monde obligatoirement nouveau, le mien, le vôtre, le nôtre...
+
+
+SsPg 1: JARP, kesako ?!?
+
+Pour faire simple, considérer que C2B est comme un sport (Enfin, seulement en ce qui en concerne les côté positifs, car pas ici d'efforts 'féroces' à faire, pas de sentiment de stress, de rivalité, et encore moins d'une quelconque expression de l'esprit de compétition ou de colères, de mesquineries, etc...
+
+Et comme tout sport, vous avez une multitude de choix pour le pratiquer:
+
+- Jamais: Il ne semble pas vous intéresser du tout, vous le zappez donc, le snober peut-être, l'ignorer au minimum, ou en avez peur et il vous fait le craindre, et alors le fuir... Dans tous ces cas, il n'est pas fait pour vous... Et vous ne le pratiquerez donc Jamais.
+
+- A l'occasion: C'est pas vraiment la grande passion, mais ma foi, parce que les circonstances..., le moment pendant lequel vous pouvez vous y consacrer, les gens avec qui vous vous retrouvez, etc... Alors, quand l'occasion se présente, vous êtes partant pour y consacrer quelques minutes, voire quelques heures.
+
+- Régulièrement: Vous êtes alors peut-être même affilié à un Club, et là, c'est la routine, un rituel qui s'est mis en place. Vous le pratiquer le ou les mêmes jours, quasi tout le temps aux mêmes heures.
+
+- PRO: On a certainement dit dans un premier temps, de vous, que vous étiez bon, voire doué, dans ce sport, et vous y avez alors 'travaillé' aussi, pour vous améliorer toujours davantage... Et jeune Pro, ou maintenant 'vieux PRO', ce qui sûrement n'était au départ qu'un hobby, peut-être rapidement une passion, est aujourd'hui devenu votre métier, dans lequel comme nombreux, vous investissez beaucoup de temps et est dorénavant votre source de revenu, votre quotidien.
+
+
+Pour l'heure, retenez donc 2 choses:
+
+- Vous avez exactement ces mêmes CHOIX pour utiliser la méthode C2B (Mais on ne parle pas là de points, de buts, ni de victoire, ou encore d'argent comme enjeux, mais bien de Bonheur, de Liberté, d'Enthousiasme et de Joies de vivre...
+
+- Les initiales de ces choix, car elles serviront plus tard (JARP !)
+
+
+SsPg 2:
+
+Soyons un peu plus concret, maintenant:
+
+Pour se faire, pensons chacun à un sport en particulier (N'importe lequel)
+
+ En ce qui me concerne, je choisis le football (Pas très original, mais bien qu'il y ait maintenant de très bonne équipes féminines et de plus en plus de supportrices aussi, ce sport a l'avantage sur d'autres d'être connnu de tous, et nombreux d'entre vous y jouent peut-être, ou y ont au moins joué une fois ou plus auparavant...)
+
+  Donc, comparons C2B au Football (N'oubliez pas, sans les aspects compétitions et belliqueux qui peuvent en découdre, et ne pensez pas non plus à toutes ces histoires d'argent (pour les transferts, rachat de joueurs aussi, etc...) liées aux grandes sphères de sport : Ces 2 aspect n'existent pas dans C2B !)
+
+  Très physiquement:
+
+
+  Le footballeur: C'est VOUS !
+
+
+  Et vous le savez déjà...: Important de considérer le plan physique, le plan mental, voire même le plan spirituel...)
+  Pour prendre du plaisir à jouer au foot', il est intéressant de veiller à rechercher une certaine qualité sur ces 3 plans. Pour exploiter au mieux C2B, c'est 'kif-kif' !
+
+
+  Vous savez aussi qu'il peut y avoir des entraves à une partie
+   (Ne seraît-ce la météo, ou si le climat social de la ville où se passe le match est peu sécurisé, etc...)
+   C2B n'échappe pas à la règle ! Nombreuses sont les entraves à votre Bonheur ! Un rapide exemple: Au lever, dès le matin, mettez en route votre télé sur une des chaînes d'info continue... Ne regardez peut-être qu'un quart d'heure ou deux, cela devrait déjà suffire à ne plus voir ensuite toutes les 'choses' magnifiques que vous allez inévitablement rencontrer aujourd'hui, tellement d'horribles images vous auront d'emblée imprégné l'esprit... Vous n'êtes alors, déjà plus vraiment vous même...:
+
+
+   Ici, une simple attitude comportementale différente évitera ce genre de phénomène ('Bêtement' regarder les infos + tard dans la journée)
+
+   Et ce n'est là qu'un maigre petit exemple parmi 10 000 choses...
+   (Taper "Bonheur" dans Google, et de nombreuses ressources vous apparaîtront alors, toutes ayant de l'intérêt, je vous invite à les consulter ad libitum, pour le coup...)
+
+
+   Mais ces freins, ces entraves, peuvent aussi se situer dans un tout autre registre, être de toute autre nature: Ce que vous voyez (Peut-être dans la glace de la Salle de bain...), ce que vous sentez (Si c'est encore dans la Salle de bain, cool, la douche ou la baignoire n'est pas encore trop loin... Lol, et plus sérieusement:) autour de vous, avec qui vous échangez (Dans le sens dialoguer), là où vous vivez, les biens qui vous entourrent, la sphère d'action que vous avez, vos éventuels projets et leur faisabilité, la confiance que vous avez en vous, vos attitudes, etc...
+
+   ...'A chaque problème sa solution !' Tellement courante, je pense qu'il serait difficile de retrouver la réelle apparition originelle de cette maxime... Mais c'est en effet la super nouvelle du jour...!
+
+   Si un terrain de foot standard fait 110 m de long sur une cinquantaine de mètres de larges (Vous aimez tant mieux, vous n'aimez pas, tant pis, mais difficile de changer cela dans le monde du foot officiel...), votre terrain, dans C2B, c'est votre VIE.
+
+   Le terrain de jeu: VOTRE VIE
+
+   Donc, vous l'aurez compris, le terrain de jeux, dans C2B, c'est VOTRE VIE (REELLE), bref, au final, la règle du jeu, votre nouvelle règle du jeu, votre nouvel art de vivre !
+
+   Pour conclure cette comparain, on a les joueurs (VOUS), le terrain (Ce site/VOTRE VIE), ne nous manquerait-il pas quelque chsoe de fondamental...? Un ballon !!!
+
+   Dans C2B, vous l'aurez compris, c'est l'Outil qui va permettre de jouer concrètement...
+
+   Autant pour le football, on peut le définir aisément (https://fr.wikipedia.org/wiki/Ballon_de_football), autant pour C2B (Je rappelle que la méthode est universelle et globale... S'applique donc pour tous et quelleque soit la situation de départ), autantpour C2B, ces outils sont multiples...
+
+   En effet, tout le monde n'a pas forcément besoin de développer telle ou telle partie autant que son voisin, et le concept même de Bonheur peut aussi avoir des acceptions très différentes d'un individu à l'autre...
+
+   Le Ballon: C2B !
+Et C2B, C'est LA méthode qui vous permet de (re)définir TOUT cela !
+
+
+   On a user de la comparainson Footblall/C2B, pour comprendre les grandes différences flagrandes, et les similitudes
+
+
+
+
+
+
