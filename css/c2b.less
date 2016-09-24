@@ -21,7 +21,7 @@ header {
 }
 
 header h1, header em {
-  font-family : arial;
+  font-family : arial, sans-serif;
 }
 
 footer {
@@ -34,7 +34,7 @@ footer {
 }
 
 .immatgc {
-  font-family : arial;
+  font-family : arial, sans-serif;
   position    : fixed;
   bottom      : 0;
   right       : 1%;
@@ -109,7 +109,7 @@ td, th {
 }
 
 a {
-  font-family : arial;
+  font-family : arial, sans-serif;
   font-size   : 1.22em;
   //text-shadow: burlywood -3px 3px ;
   text-shadow : cornsilk 0 0 10px;
@@ -118,10 +118,15 @@ a {
 
 a:hover {
   transition  : ease 0.7s;
-  text-shadow : red 0px 0px 5px;
-  text-shadow : yellow 0px 0px 10px;
+  text-shadow : red 0 0 5px,
+  yellow 0 0 10px;
   color       : red;
 }
 
+@media screen and (max-height : 800px) {
+  footer .immatgc {
+    position : relative;
+  }
+}
 
 
