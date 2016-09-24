@@ -1,75 +1,71 @@
 html {
-    color       : #333;
-    font-size   : 1.1em;
-    font-family : arial, sans-serif;
+  color: #333;
+  font-size: 1.1em;
+  font-family: arial, sans-serif;
 }
-
 body {
-    margin     : 0 auto;
-    width      : 97%;
-    text-align : justify;
+  width: 97%;
+  margin: 0 auto;
+  text-align: justify;
 }
-
 header {
-    text-align : center;
+  text-align: center;
 }
-
 footer {
-    text-align : center;
+  text-align: center;
 }
-
+.immatgc {
+  text-align: right;
+  border-top: 1px solid #333;
+  line-height: 0.5em;
+}
+.immatgc p {
+  font-size: .8em;
+  color: grey;
+}
 .block_gc7 {
-    margin           : 10px auto;
-    padding          : 5px 10px 0;
-    width            : 95%;
-    border-radius    : 10px;
-    background-color : #FFFACD;
-    text-align       : justify;
+  background-color: #FFFACD;
+  width: 95%;
+  border-radius: 10px;
+  margin: 10px auto;
+  padding: 5px 10px 0;
+  text-align: justify;
 }
-
 .minimal * {
-    margin                : 0;
-    padding               : 0 0 0 7px;
-    color                 : blue;
-    font-size             : .85em;
-    line-height           : 1;
-    -webkit-margin-before : 0;
+  margin: 0;
+  padding: 0 0 0 7px;
+  line-height: 1;
+  font-size: .85em;
+  color: blue;
+  -webkit-margin-before: 0;
 }
-
 .checked {
-    color : #f00;
+  color: #f00;
 }
-
 .centered {
-    text-align : center;
+  text-align: center;
 }
-
 p.right {
-    text-align : right;
+  text-align: right;
 }
-
 .rounded {
-    -webkit-border-radius : 7px;
-    -moz-border-radius    : 7px;
-    border-radius         : 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  border-radius: 7px;
 }
-
 input[type="text"].green {
-    background : #DFF0D8;
+  background: #DFF0D8;
 }
-
 input[type="text"].red {
-    background : #F2DEDE;
+  background: #F2DEDE;
 }
-
 table {
-    margin          : 0 auto;
-    border          : 2px solid grey;
-    border-collapse : collapse;
+  margin: 0 auto;
+  border: 2px solid grey;
+  border-collapse: collapse;
 }
-
 td,
 th {
-    padding : 2px 5px;
-    border  : 1px solid darkgrey;
+  border: 1px solid darkgrey;
+  padding: 2px 5px;
 }
