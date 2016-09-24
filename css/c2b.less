@@ -1,31 +1,56 @@
 html {
   color       : #333;
-  font-size   : 1.1em;
-  font-family : arial, sans-serif;
+  font-size   : 1em;
+  font-family : "Comic sans MS", "Trebuchet MS", "arial", sans-serif;
 }
 
 body {
-  width      : 97%;
-  margin     : 0 auto;
-  text-align : justify;
+  background      : url("../imgs/coeurs_2mains.jpg") center center no-repeat;
+  background-size : cover;
+  width           : 97%;
+  margin          : 0 auto;
+  text-align      : justify;
 }
 
 header {
-  text-align : center;
+
+  //margin-top : 10%;
+  //margin-top : 300px;
+  padding-top : 7%;
+  text-align  : center;
+}
+
+header h1, header em {
+  font-family : arial;
 }
 
 footer {
   text-align : center;
 }
 
+.etroite {
+  margin : 0 auto;
+  width  : 70%;
+}
+
 .immatgc {
-  text-align : right;
+  font-family : arial;
+  position    : fixed;
+  bottom      : 0;
+  right       : 1%;
+  width       : 98%;
+  text-align  : right;
   border-top  : 1px solid #333;
-  line-height : 0.5em;
+  line-height : 0.77em;
   p {
     font-size : .8em;
-    color      : grey;
+    color     : grey;
   }
+}
+
+section {
+  text-align : center;
+  //padding : 0%;
 }
 
 .block_gc7 {
@@ -82,3 +107,21 @@ td, th {
   border  : 1px solid darkgrey;
   padding : 2px 5px;
 }
+
+a {
+  font-family : arial;
+  font-size   : 1.22em;
+  //text-shadow: burlywood -3px 3px ;
+  text-shadow : cornsilk 0 0 10px;
+  transition  : ease 5s;
+}
+
+a:hover {
+  transition  : ease 0.7s;
+  text-shadow : red 0px 0px 5px;
+  text-shadow : yellow 0px 0px 10px;
+  color       : red;
+}
+
+
+
