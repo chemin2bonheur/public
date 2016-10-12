@@ -1,6 +1,6 @@
 B.P. (Doc réservé à LC - Git autorisé)
 
-  - G.A. / C2B + P100 + UB
+  - G.A. / C2B + Pui100.com + UnifiedBrains.com
   - Menu (Responsive et fixed, body relative) avec Bootstrap - Idem p100.asseco.fr
     [1-2 j - D.L.: Sept. '16]
 
