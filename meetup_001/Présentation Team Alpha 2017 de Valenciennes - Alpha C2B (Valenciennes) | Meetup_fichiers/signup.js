@@ -1,0 +1,2 @@
+require(["jquery","shared/trax"],function(a,b){a(function(){var c,d="event_details_signup_dialog";a("#event-join.dialog--signup").on("click",function(e){if(Meetup.Data.traxEventDetailsSignupDialogVariant&&!c&&(c=b.start(d,Meetup.Data.traxEventDetailsSignupDialogVariant,"start",0)),"dialog"===Meetup.Data.traxEventDetailsSignupDialogVariant){e.preventDefault();var f=a("#dialog--signup");f.hasClass("dialog")?f.dialog("open"):(f.dialog({autoOpen:!0}),c.done(function(){b.update(d,"dialog",5)}))}})})});
+//# sourceMappingURL=signup.map

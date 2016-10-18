@@ -1,0 +1,68 @@
+
+
+
+
+
+
+#C_pageBody .theme-color--background {
+color: ;
+}
+#C_pageBody .theme-color--header {
+color: ;
+}
+#C_pageBody .theme-bgcolor--actionlist li:hover {
+background-color: ;
+}
+#C_pageBody .theme-color--actionlist li:hover a {
+color: #ffffff;
+}
+.ie6 #C_page,
+.ie7 #C_page,
+.ie8 #C_page {
+
+}
+#C_page {
+
+background-image: none;
+
+background-position: left top;
+background-repeat: repeat;
+
+}
+
+#chapter-banner,
+#chapter-banner h1 {
+padding: 0 !important;
+}
+#chapter-banner h1 a {
+padding: 0 !important;
+background-image: url('https://a248.e.akamai.net/secure.meetupstatic.com/photos/theme_head/a/e/9/b/full_7244699.jpeg');
+background-repeat: no-repeat;
+background-position: top center;
+height: 150px;
+display: block;
+}
+#chapter-banner a span {
+display: none;
+}
+
+html body #C_page .nav-buttons li a.selected,
+html body #C_page .nav-buttons li.selected a,
+html body #C_page .nav-buttons li.selected { 
+background: rgba(0,0,0,0.05) !important;
+color:  !important;
+}
+.nav-pagination li.selected a,
+.nav-pagination .nav-pageitem.selected a {
+background-color:  !important;
+}
+#C_page .hoverLink:hover {
+color:  !important;
+}
+/* never override contrast button text color */
+#C_page .button--contrast {
+color: rgba(0,0,0,0.87) !important;
+}
+#C_page .inverted .button--contrast {
+color: #fff !important;
+}
