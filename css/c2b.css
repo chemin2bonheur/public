@@ -105,3 +105,9 @@ a:hover {
     position: relative;
   }
 }
+a:hover.noDecorationAlways,
+a:visited,
+a:link.noDecorationAlways,
+a:active.noDecorationAlways {
+  text-decoration: none;
+}
